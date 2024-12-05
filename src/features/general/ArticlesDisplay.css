@@ -1,0 +1,56 @@
+
+/*Article display */
+/* General Styling for the Article Page */
+.category-page {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+
+/* Heading Styling */
+.category-page h1 {
+  font-size: 2.5rem;
+  color: #d32f2f; /* Red for the heading */
+  margin-bottom: 20px;
+  text-align: center;
+  border-bottom: 2px solid #d32f2f; /* Add a red underline */
+  padding-bottom: 10px;
+}
+
+/* Article List Grid */
+.article-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+
+/* Individual Article Item */
+.article-item {
+  background-color: #fff; /* White background for cards */
+  color: #333; /* Black text for contrast */
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s, transform 0.3s, box-shadow 0.3s;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+
+/* Hover Effects */
+.article-item:hover {
+  background-color: #f9f9f9; /* Very light grey background on hover */
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Subtle shadow on hover */
+}
+
+.carousel-image {
+  width: 100%;
+  height: auto; /* Maintain aspect ratio */
+  object-fit: cover; /* Ensure the image fills the container */
+}

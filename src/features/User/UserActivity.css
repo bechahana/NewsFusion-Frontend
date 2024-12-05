@@ -1,0 +1,78 @@
+/* General container styles */
+.user-activity {
+    padding: 20px;
+    margin: 0 auto;
+    max-width: 800px;
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    color: #333;
+  }
+  
+  .user-activity h1 {
+    text-align: center;
+    font-size: 28px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
+  /* Error and loading messages */
+  .error-message {
+    color: #d9534f;
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  .loading {
+    text-align: center;
+    font-size: 18px;
+    color: #777;
+  }
+  
+  /* Activity list styles */
+  .user-activity ul {
+    list-style: none;
+    padding: 0;
+    margin-top: 20px;
+  }
+  
+  .user-activity li {
+    background-color: #fff;
+    margin-bottom: 15px;
+    padding: 15px;
+    border-radius: 8px;
+    border-left: 6px solid;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Different colors for different activity types */
+  .user-activity li.important {
+    border-color: #f29595; /* Red for "Published Article" */
+    background-color: #f8cccc;
+  }
+  
+  .user-activity li.view {
+    border-color: #17a2b8; /* Blue for "View" */
+    background-color: #e6f7fb;
+  }
+  
+  .user-activity li.comment {
+    border-color: #28a745; /* Green for "Comment" */
+    background-color: #e8fbe8;
+  }
+  
+  /* General text styles inside activity list */
+  .user-activity li strong {
+    font-weight: bold;
+    color: #444;
+  }
+  
+  .user-activity li .timestamp {
+    margin-top: 10px;
+    font-size: 12px;
+    color: #888;
+    text-align: right;
+  }
+  

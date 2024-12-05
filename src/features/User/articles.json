@@ -1,0 +1,1004 @@
+{
+  "articles": [
+      {
+          "id": "1",
+          "title": "Politics Insights: Key Developments 1",
+          "author": "Expert Author 1",
+          "author_id": "expert-author-001",
+          "date_published": "2024-11-11T10:00:00Z",
+          "date_modified": "2024-11-11T12:00:00Z",
+          "content": "This is a detailed article about politics developments. It discusses relevant insights and recent trends in politics.",
+          "summary": "Summary of key developments in politics for 1.",
+          "category": "Politics",
+          "tags": [
+              "politics",
+              "insights-1",
+              "updates"
+          ],
+          "thumbnail_url": "https://via.placeholder.com/600x400?text=Social+Media+and+Politics",
+          "image_urls": [
+              "https://via.placeholder.com/600x400?text=Social+Media+and+Politics",
+              "https://via.placeholder.com/600x400?text=Social+Media+and+Politics&extra=true"
+          ],
+          "video_url": "https://www.example.com/videos/politics-1.mp4",
+          "source_url": "https://www.example.com/politics-insights-1",
+          "reading_time": 6,
+          "likes": 160,
+          "comments": [
+              {
+                  "user": "User1",
+                  "comment": "Great insights on politics!"
+              },
+              {
+                  "user": "User2",
+                  "comment": "Looking forward to more updates on politics."
+              }
+          ],
+          "related_articles": [
+              "Related Article 1",
+              "Related Article 2",
+              "Related Article 3"
+          ]
+      },
+      {
+          "id": "2",
+          "title": "Politics Insights: Key Developments 2",
+          "author": "Expert Author 2",
+          "author_id": "expert-author-002",
+          "date_published": "2024-11-12T10:00:00Z",
+          "date_modified": "2024-11-12T12:00:00Z",
+          "content": "This is a detailed article about politics developments. It discusses relevant insights and recent trends in politics.",
+          "summary": "Summary of key developments in politics for 2.",
+          "category": "Politics",
+          "tags": [
+              "politics",
+              "insights-2",
+              "updates"
+          ],
+          "thumbnail_url": "https://via.placeholder.com/600x400?text=United+Nations+Assembly",
+          "image_urls": [
+              "https://via.placeholder.com/600x400?text=United+Nations+Assembly",
+              "https://via.placeholder.com/600x400?text=United+Nations+Assembly&extra=true"
+          ],
+          "video_url": "https://www.example.com/videos/politics-2.mp4",
+          "source_url": "https://www.example.com/politics-insights-2",
+          "reading_time": 7,
+          "likes": 170,
+          "comments": [
+              {
+                  "user": "User1",
+                  "comment": "Great insights on politics!"
+              },
+              {
+                  "user": "User2",
+                  "comment": "Looking forward to more updates on politics."
+              }
+          ],
+          "related_articles": [
+              "Related Article 1",
+              "Related Article 2",
+              "Related Article 3"
+          ]
+      },
+      {
+          "id": "3",
+          "title": "Politics Insights: Key Developments 3",
+          "author": "Expert Author 3",
+          "author_id": "expert-author-003",
+          "date_published": "2024-11-13T10:00:00Z",
+          "date_modified": "2024-11-13T12:00:00Z",
+          "content": "This is a detailed article about politics developments. It discusses relevant insights and recent trends in politics.",
+          "summary": "Summary of key developments in politics for 3.",
+          "category": "Politics",
+          "tags": [
+              "politics",
+              "insights-3",
+              "updates"
+          ],
+          "thumbnail_url": "https://via.placeholder.com/600x400?text=Voting+Rights",
+          "image_urls": [
+              "https://via.placeholder.com/600x400?text=Voting+Rights",
+              "https://via.placeholder.com/600x400?text=Voting+Rights&extra=true"
+          ],
+          "video_url": "https://www.example.com/videos/politics-3.mp4",
+          "source_url": "https://www.example.com/politics-insights-3",
+          "reading_time": 8,
+          "likes": 180,
+          "comments": [
+              {
+                  "user": "User1",
+                  "comment": "Great insights on politics!"
+              },
+              {
+                  "user": "User2",
+                  "comment": "Looking forward to more updates on politics."
+              }
+          ],
+          "related_articles": [
+              "Related Article 1",
+              "Related Article 2",
+              "Related Article 3"
+          ]
+      },
+      {
+          "id": "4",
+          "title": "Politics Insights: Key Developments 4",
+          "author": "Expert Author 4",
+          "author_id": "expert-author-004",
+          "date_published": "2024-11-14T10:00:00Z",
+          "date_modified": "2024-11-14T12:00:00Z",
+          "content": "This is a detailed article about politics developments. It discusses relevant insights and recent trends in politics.",
+          "summary": "Summary of key developments in politics for 4.",
+          "category": "Politics",
+          "tags": [
+              "politics",
+              "insights-4",
+              "updates"
+          ],
+          "thumbnail_url": "https://via.placeholder.com/600x400?text=Lobbying+Influence",
+          "image_urls": [
+              "https://via.placeholder.com/600x400?text=Lobbying+Influence",
+              "https://via.placeholder.com/600x400?text=Lobbying+Influence&extra=true"
+          ],
+          "video_url": "https://www.example.com/videos/politics-4.mp4",
+          "source_url": "https://www.example.com/politics-insights-4",
+          "reading_time": 9,
+          "likes": 190,
+          "comments": [
+              {
+                  "user": "User1",
+                  "comment": "Great insights on politics!"
+              },
+              {
+                  "user": "User2",
+                  "comment": "Looking forward to more updates on politics."
+              }
+          ],
+          "related_articles": [
+              "Related Article 1",
+              "Related Article 2",
+              "Related Article 3"
+          ]
+      },
+      {
+          "id": "5",
+          "title": "Politics Insights: Key Developments 5",
+          "author": "Expert Author 5",
+          "author_id": "expert-author-005",
+          "date_published": "2024-11-15T10:00:00Z",
+          "date_modified": "2024-11-15T12:00:00Z",
+          "content": "This is a detailed article about politics developments. It discusses relevant insights and recent trends in politics.",
+          "summary": "Summary of key developments in politics for 5.",
+          "category": "Politics",
+          "tags": [
+              "politics",
+              "insights-5",
+              "updates"
+          ],
+          "thumbnail_url": "https://via.placeholder.com/600x400?text=Populism+in+Politics",
+          "image_urls": [
+              "https://via.placeholder.com/600x400?text=Populism+in+Politics",
+              "https://via.placeholder.com/600x400?text=Populism+in+Politics&extra=true"
+          ],
+          "video_url": "https://www.example.com/videos/politics-5.mp4",
+          "source_url": "https://www.example.com/politics-insights-5",
+          "reading_time": 10,
+          "likes": 200,
+          "comments": [
+              {
+                  "user": "User1",
+                  "comment": "Great insights on politics!"
+              },
+              {
+                  "user": "User2",
+                  "comment": "Looking forward to more updates on politics."
+              }
+          ],
+          "related_articles": [
+              "Related Article 1",
+              "Related Article 2",
+              "Related Article 3"
+          ]
+      },
+      {
+          "id": "6",
+          "title": "Business & Economy Insights: Key Developments 1",
+          "author": "Expert Author 1",
+          "author_id": "expert-author-006",
+          "date_published": "2024-11-11T10:00:00Z",
+          "date_modified": "2024-11-11T12:00:00Z",
+          "content": "This is a detailed article about business & economy developments. It discusses relevant insights and recent trends in business & economy.",
+          "summary": "Summary of key developments in business & economy for 1.",
+          "category": "Business & Economy",
+          "tags": [
+              "business & economy",
+              "insights-1",
+              "updates"
+          ],
+          "thumbnail_url": "https://via.placeholder.com/600x400?text=Remote+Work",
+          "image_urls": [
+              "https://via.placeholder.com/600x400?text=Remote+Work",
+              "https://via.placeholder.com/600x400?text=Remote+Work&extra=true"
+          ],
+          "video_url": "https://www.example.com/videos/business & economy-1.mp4",
+          "source_url": "https://www.example.com/business & economy-insights-1",
+          "reading_time": 6,
+          "likes": 160,
+          "comments": [
+              {
+                  "user": "User1",
+                  "comment": "Great insights on business & economy!"
+              },
+              {
+                  "user": "User2",
+                  "comment": "Looking forward to more updates on business & economy."
+              }
+          ],
+          "related_articles": [
+              "Related Article 1",
+              "Related Article 2",
+              "Related Article 3"
+          ]
+      },
+      {
+          "id": "7",
+          "title": "Business & Economy Insights: Key Developments 2",
+          "author": "Expert Author 2",
+          "author_id": "expert-author-007",
+          "date_published": "2024-11-12T10:00:00Z",
+          "date_modified": "2024-11-12T12:00:00Z",
+          "content": "This is a detailed article about business & economy developments. It discusses relevant insights and recent trends in business & economy.",
+          "summary": "Summary of key developments in business & economy for 2.",
+          "category": "Business & Economy",
+          "tags": [
+              "business & economy",
+              "insights-2",
+              "updates"
+          ],
+          "thumbnail_url": "https://via.placeholder.com/600x400?text=Cryptocurrency",
+          "image_urls": [
+              "https://via.placeholder.com/600x400?text=Cryptocurrency",
+              "https://via.placeholder.com/600x400?text=Cryptocurrency&extra=true"
+          ],
+          "video_url": "https://www.example.com/videos/business & economy-2.mp4",
+          "source_url": "https://www.example.com/business & economy-insights-2",
+          "reading_time": 7,
+          "likes": 170,
+          "comments": [
+              {
+                  "user": "User1",
+                  "comment": "Great insights on business & economy!"
+              },
+              {
+                  "user": "User2",
+                  "comment": "Looking forward to more updates on business & economy."
+              }
+          ],
+          "related_articles": [
+              "Related Article 1",
+              "Related Article 2",
+              "Related Article 3"
+          ]
+      },
+      {
+          "id": "8",
+          "title": "Business & Economy Insights: Key Developments 3",
+          "author": "Expert Author 3",
+          "author_id": "expert-author-008",
+          "date_published": "2024-11-13T10:00:00Z",
+          "date_modified": "2024-11-13T12:00:00Z",
+          "content": "This is a detailed article about business & economy developments. It discusses relevant insights and recent trends in business & economy.",
+          "summary": "Summary of key developments in business & economy for 3.",
+          "category": "Business & Economy",
+          "tags": [
+              "business & economy",
+              "insights-3",
+              "updates"
+          ],
+          "thumbnail_url": "https://via.placeholder.com/600x400?text=E-commerce+vs+Retail",
+          "image_urls": [
+              "https://via.placeholder.com/600x400?text=E-commerce+vs+Retail",
+              "https://via.placeholder.com/600x400?text=E-commerce+vs+Retail&extra=true"
+          ],
+          "video_url": "https://www.example.com/videos/business & economy-3.mp4",
+          "source_url": "https://www.example.com/business & economy-insights-3",
+          "reading_time": 8,
+          "likes": 180,
+          "comments": [
+              {
+                  "user": "User1",
+                  "comment": "Great insights on business & economy!"
+              },
+              {
+                  "user": "User2",
+                  "comment": "Looking forward to more updates on business & economy."
+              }
+          ],
+          "related_articles": [
+              "Related Article 1",
+              "Related Article 2",
+              "Related Article 3"
+          ]
+      },
+      {
+          "id": "9",
+          "title": "Business & Economy Insights: Key Developments 4",
+          "author": "Expert Author 4",
+          "author_id": "expert-author-009",
+          "date_published": "2024-11-14T10:00:00Z",
+          "date_modified": "2024-11-14T12:00:00Z",
+          "content": "This is a detailed article about business & economy developments. It discusses relevant insights and recent trends in business & economy.",
+          "summary": "Summary of key developments in business & economy for 4.",
+          "category": "Business & Economy",
+          "tags": [
+              "business & economy",
+              "insights-4",
+              "updates"
+          ],
+          "thumbnail_url": "https://via.placeholder.com/600x400?text=Sustainable+Business",
+          "image_urls": [
+              "https://via.placeholder.com/600x400?text=Sustainable+Business",
+              "https://via.placeholder.com/600x400?text=Sustainable+Business&extra=true"
+          ],
+          "video_url": "https://www.example.com/videos/business & economy-4.mp4",
+          "source_url": "https://www.example.com/business & economy-insights-4",
+          "reading_time": 9,
+          "likes": 190,
+          "comments": [
+              {
+                  "user": "User1",
+                  "comment": "Great insights on business & economy!"
+              },
+              {
+                  "user": "User2",
+                  "comment": "Looking forward to more updates on business & economy."
+              }
+          ],
+          "related_articles": [
+              "Related Article 1",
+              "Related Article 2",
+              "Related Article 3"
+          ]
+      },
+      {
+          "id": "10",
+          "title": "Business & Economy Insights: Key Developments 5",
+          "author": "Expert Author 5",
+          "author_id": "expert-author-010",
+          "date_published": "2024-11-15T10:00:00Z",
+          "date_modified": "2024-11-15T12:00:00Z",
+          "content": "This is a detailed article about business & economy developments. It discusses relevant insights and recent trends in business & economy.",
+          "summary": "Summary of key developments in business & economy for 5.",
+          "category": "Business & Economy",
+          "tags": [
+              "business & economy",
+              "insights-5",
+              "updates"
+          ],
+          "thumbnail_url": "https://via.placeholder.com/600x400?text=AI+in+Finance",
+          "image_urls": [
+              "https://via.placeholder.com/600x400?text=AI+in+Finance",
+              "https://via.placeholder.com/600x400?text=AI+in+Finance&extra=true"
+          ],
+          "video_url": "https://www.example.com/videos/business & economy-5.mp4",
+          "source_url": "https://www.example.com/business & economy-insights-5",
+          "reading_time": 10,
+          "likes": 200,
+          "comments": [
+              {
+                  "user": "User1",
+                  "comment": "Great insights on business & economy!"
+              },
+              {
+                  "user": "User2",
+                  "comment": "Looking forward to more updates on business & economy."
+              }
+          ],
+          "related_articles": [
+              "Related Article 1",
+              "Related Article 2",
+              "Related Article 3"
+          ]
+      },
+      {
+          "id": "11",
+          "title": "Technology Insights: Key Developments 1",
+          "author": "Expert Author 1",
+          "author_id": "expert-author-011",
+          "date_published": "2024-11-11T10:00:00Z",
+          "date_modified": "2024-11-11T12:00:00Z",
+          "content": "This is a detailed article about technology developments. It discusses relevant insights and recent trends in technology.",
+          "summary": "Summary of key developments in technology for 1.",
+          "category": "Technology",
+          "tags": [
+              "technology",
+              "insights-1",
+              "updates"
+          ],
+          "thumbnail_url": "https://via.placeholder.com/600x400?text=Quantum+Computing",
+          "image_urls": [
+              "https://via.placeholder.com/600x400?text=Quantum+Computing",
+              "https://via.placeholder.com/600x400?text=Quantum+Computing&extra=true"
+          ],
+          "video_url": "https://www.example.com/videos/technology-1.mp4",
+          "source_url": "https://www.example.com/technology-insights-1",
+          "reading_time": 6,
+          "likes": 160,
+          "comments": [
+              {
+                  "user": "User1",
+                  "comment": "Great insights on technology!"
+              },
+              {
+                  "user": "User2",
+                  "comment": "Looking forward to more updates on technology."
+              }
+          ],
+          "related_articles": [
+              "Related Article 1",
+              "Related Article 2",
+              "Related Article 3"
+          ]
+      },
+      {
+          "id": "12",
+          "title": "Technology Insights: Key Developments 2",
+          "author": "Expert Author 2",
+          "author_id": "expert-author-012",
+          "date_published": "2024-11-12T10:00:00Z",
+          "date_modified": "2024-11-12T12:00:00Z",
+          "content": "This is a detailed article about technology developments. It discusses relevant insights and recent trends in technology.",
+          "summary": "Summary of key developments in technology for 2.",
+          "category": "Technology",
+          "tags": [
+              "technology",
+              "insights-2",
+              "updates"
+          ],
+          "thumbnail_url": "https://via.placeholder.com/600x400?text=5G+Technology",
+          "image_urls": [
+              "https://via.placeholder.com/600x400?text=5G+Technology",
+              "https://via.placeholder.com/600x400?text=5G+Technology&extra=true"
+          ],
+          "video_url": "https://www.example.com/videos/technology-2.mp4",
+          "source_url": "https://www.example.com/technology-insights-2",
+          "reading_time": 7,
+          "likes": 170,
+          "comments": [
+              {
+                  "user": "User1",
+                  "comment": "Great insights on technology!"
+              },
+              {
+                  "user": "User2",
+                  "comment": "Looking forward to more updates on technology."
+              }
+          ],
+          "related_articles": [
+              "Related Article 1",
+              "Related Article 2",
+              "Related Article 3"
+          ]
+      },
+      {
+          "id": "13",
+          "title": "Technology Insights: Key Developments 3",
+          "author": "Expert Author 3",
+          "author_id": "expert-author-013",
+          "date_published": "2024-11-13T10:00:00Z",
+          "date_modified": "2024-11-13T12:00:00Z",
+          "content": "This is a detailed article about technology developments. It discusses relevant insights and recent trends in technology.",
+          "summary": "Summary of key developments in technology for 3.",
+          "category": "Technology",
+          "tags": [
+              "technology",
+              "insights-3",
+              "updates"
+          ],
+          "thumbnail_url": "https://via.placeholder.com/600x400?text=AI+Integration",
+          "image_urls": [
+              "https://via.placeholder.com/600x400?text=AI+Integration",
+              "https://via.placeholder.com/600x400?text=AI+Integration&extra=true"
+          ],
+          "video_url": "https://www.example.com/videos/technology-3.mp4",
+          "source_url": "https://www.example.com/technology-insights-3",
+          "reading_time": 8,
+          "likes": 180,
+          "comments": [
+              {
+                  "user": "User1",
+                  "comment": "Great insights on technology!"
+              },
+              {
+                  "user": "User2",
+                  "comment": "Looking forward to more updates on technology."
+              }
+          ],
+          "related_articles": [
+              "Related Article 1",
+              "Related Article 2",
+              "Related Article 3"
+          ]
+      },
+      {
+          "id": "14",
+          "title": "Technology Insights: Key Developments 4",
+          "author": "Expert Author 4",
+          "author_id": "expert-author-014",
+          "date_published": "2024-11-14T10:00:00Z",
+          "date_modified": "2024-11-14T12:00:00Z",
+          "content": "This is a detailed article about technology developments. It discusses relevant insights and recent trends in technology.",
+          "summary": "Summary of key developments in technology for 4.",
+          "category": "Technology",
+          "tags": [
+              "technology",
+              "insights-4",
+              "updates"
+          ],
+          "thumbnail_url": "https://via.placeholder.com/600x400?text=Augmented+Reality+in+Education",
+          "image_urls": [
+              "https://via.placeholder.com/600x400?text=Augmented+Reality+in+Education",
+              "https://via.placeholder.com/600x400?text=Augmented+Reality+in+Education&extra=true"
+          ],
+          "video_url": "https://www.example.com/videos/technology-4.mp4",
+          "source_url": "https://www.example.com/technology-insights-4",
+          "reading_time": 9,
+          "likes": 190,
+          "comments": [
+              {
+                  "user": "User1",
+                  "comment": "Great insights on technology!"
+              },
+              {
+                  "user": "User2",
+                  "comment": "Looking forward to more updates on technology."
+              }
+          ],
+          "related_articles": [
+              "Related Article 1",
+              "Related Article 2",
+              "Related Article 3"
+          ]
+      },
+      {
+          "id": "15",
+          "title": "Technology Insights: Key Developments 5",
+          "author": "Expert Author 5",
+          "author_id": "expert-author-015",
+          "date_published": "2024-11-15T10:00:00Z",
+          "date_modified": "2024-11-15T12:00:00Z",
+          "content": "This is a detailed article about technology developments. It discusses relevant insights and recent trends in technology.",
+          "summary": "Summary of key developments in technology for 5.",
+          "category": "Technology",
+          "tags": [
+              "technology",
+              "insights-5",
+              "updates"
+          ],
+          "thumbnail_url": "https://via.placeholder.com/600x400?text=Blockchain+Technology",
+          "image_urls": [
+              "https://via.placeholder.com/600x400?text=Blockchain+Technology",
+              "https://via.placeholder.com/600x400?text=Blockchain+Technology&extra=true"
+          ],
+          "video_url": "https://www.example.com/videos/technology-5.mp4",
+          "source_url": "https://www.example.com/technology-insights-5",
+          "reading_time": 10,
+          "likes": 200,
+          "comments": [
+              {
+                  "user": "User1",
+                  "comment": "Great insights on technology!"
+              },
+              {
+                  "user": "User2",
+                  "comment": "Looking forward to more updates on technology."
+              }
+          ],
+          "related_articles": [
+              "Related Article 1",
+              "Related Article 2",
+              "Related Article 3"
+          ]
+      },
+      {
+          "id": "16",
+          "title": "Science Insights: Key Developments 1",
+          "author": "Expert Author 1",
+          "author_id": "expert-author-016",
+          "date_published": "2024-11-11T10:00:00Z",
+          "date_modified": "2024-11-11T12:00:00Z",
+          "content": "This is a detailed article about science developments. It discusses relevant insights and recent trends in science.",
+          "summary": "Summary of key developments in science for 1.",
+          "category": "Science",
+          "tags": [
+              "science",
+              "insights-1",
+              "updates"
+          ],
+          "thumbnail_url": "https://via.placeholder.com/600x400?text=Exoplanet+Research",
+          "image_urls": [
+              "https://via.placeholder.com/600x400?text=Exoplanet+Research",
+              "https://via.placeholder.com/600x400?text=Exoplanet+Research&extra=true"
+          ],
+          "video_url": "https://www.example.com/videos/science-1.mp4",
+          "source_url": "https://www.example.com/science-insights-1",
+          "reading_time": 6,
+          "likes": 160,
+          "comments": [
+              {
+                  "user": "User1",
+                  "comment": "Great insights on science!"
+              },
+              {
+                  "user": "User2",
+                  "comment": "Looking forward to more updates on science."
+              }
+          ],
+          "related_articles": [
+              "Related Article 1",
+              "Related Article 2",
+              "Related Article 3"
+          ]
+      },
+      {
+          "id": "17",
+          "title": "Science Insights: Key Developments 2",
+          "author": "Expert Author 2",
+          "author_id": "expert-author-017",
+          "date_published": "2024-11-12T10:00:00Z",
+          "date_modified": "2024-11-12T12:00:00Z",
+          "content": "This is a detailed article about science developments. It discusses relevant insights and recent trends in science.",
+          "summary": "Summary of key developments in science for 2.",
+          "category": "Science",
+          "tags": [
+              "science",
+              "insights-2",
+              "updates"
+          ],
+          "thumbnail_url": "https://via.placeholder.com/600x400?text=Gene+Editing",
+          "image_urls": [
+              "https://via.placeholder.com/600x400?text=Gene+Editing",
+              "https://via.placeholder.com/600x400?text=Gene+Editing&extra=true"
+          ],
+          "video_url": "https://www.example.com/videos/science-2.mp4",
+          "source_url": "https://www.example.com/science-insights-2",
+          "reading_time": 7,
+          "likes": 170,
+          "comments": [
+              {
+                  "user": "User1",
+                  "comment": "Great insights on science!"
+              },
+              {
+                  "user": "User2",
+                  "comment": "Looking forward to more updates on science."
+              }
+          ],
+          "related_articles": [
+              "Related Article 1",
+              "Related Article 2",
+              "Related Article 3"
+          ]
+      },
+      {
+          "id": "18",
+          "title": "Science Insights: Key Developments 3",
+          "author": "Expert Author 3",
+          "author_id": "expert-author-018",
+          "date_published": "2024-11-13T10:00:00Z",
+          "date_modified": "2024-11-13T12:00:00Z",
+          "content": "This is a detailed article about science developments. It discusses relevant insights and recent trends in science.",
+          "summary": "Summary of key developments in science for 3.",
+          "category": "Science",
+          "tags": [
+              "science",
+              "insights-3",
+              "updates"
+          ],
+          "thumbnail_url": "https://via.placeholder.com/600x400?text=Nanotechnology+in+Medicine",
+          "image_urls": [
+              "https://via.placeholder.com/600x400?text=Nanotechnology+in+Medicine",
+              "https://via.placeholder.com/600x400?text=Nanotechnology+in+Medicine&extra=true"
+          ],
+          "video_url": "https://www.example.com/videos/science-3.mp4",
+          "source_url": "https://www.example.com/science-insights-3",
+          "reading_time": 8,
+          "likes": 180,
+          "comments": [
+              {
+                  "user": "User1",
+                  "comment": "Great insights on science!"
+              },
+              {
+                  "user": "User2",
+                  "comment": "Looking forward to more updates on science."
+              }
+          ],
+          "related_articles": [
+              "Related Article 1",
+              "Related Article 2",
+              "Related Article 3"
+          ]
+      },
+      {
+          "id": "19",
+          "title": "Science Insights: Key Developments 4",
+          "author": "Expert Author 4",
+          "author_id": "expert-author-019",
+          "date_published": "2024-11-14T10:00:00Z",
+          "date_modified": "2024-11-14T12:00:00Z",
+          "content": "This is a detailed article about science developments. It discusses relevant insights and recent trends in science.",
+          "summary": "Summary of key developments in science for 4.",
+          "category": "Science",
+          "tags": [
+              "science",
+              "insights-4",
+              "updates"
+          ],
+          "thumbnail_url": "https://via.placeholder.com/600x400?text=Climate+Change+Research",
+          "image_urls": [
+              "https://via.placeholder.com/600x400?text=Climate+Change+Research",
+              "https://via.placeholder.com/600x400?text=Climate+Change+Research&extra=true"
+          ],
+          "video_url": "https://www.example.com/videos/science-4.mp4",
+          "source_url": "https://www.example.com/science-insights-4",
+          "reading_time": 9,
+          "likes": 190,
+          "comments": [
+              {
+                  "user": "User1",
+                  "comment": "Great insights on science!"
+              },
+              {
+                  "user": "User2",
+                  "comment": "Looking forward to more updates on science."
+              }
+          ],
+          "related_articles": [
+              "Related Article 1",
+              "Related Article 2",
+              "Related Article 3"
+          ]
+      },
+      {
+          "id": "20",
+          "title": "Science Insights: Key Developments 5",
+          "author": "Expert Author 5",
+          "author_id": "expert-author-020",
+          "date_published": "2024-11-15T10:00:00Z",
+          "date_modified": "2024-11-15T12:00:00Z",
+          "content": "This is a detailed article about science developments. It discusses relevant insights and recent trends in science.",
+          "summary": "Summary of key developments in science for 5.",
+          "category": "Science",
+          "tags": [
+              "science",
+              "insights-5",
+              "updates"
+          ],
+          "thumbnail_url": "https://via.placeholder.com/600x400?text=Dark+Matter+Research",
+          "image_urls": [
+              "https://via.placeholder.com/600x400?text=Dark+Matter+Research",
+              "https://via.placeholder.com/600x400?text=Dark+Matter+Research&extra=true"
+          ],
+          "video_url": "https://www.example.com/videos/science-5.mp4",
+          "source_url": "https://www.example.com/science-insights-5",
+          "reading_time": 10,
+          "likes": 200,
+          "comments": [
+              {
+                  "user": "User1",
+                  "comment": "Great insights on science!"
+              },
+              {
+                  "user": "User2",
+                  "comment": "Looking forward to more updates on science."
+              }
+          ],
+          "related_articles": [
+              "Related Article 1",
+              "Related Article 2",
+              "Related Article 3"
+          ]
+      },
+      {
+          "id": "21",
+          "title": "Health Insights: Key Developments 1",
+          "author": "Expert Author 1",
+          "author_id": "expert-author-021",
+          "date_published": "2024-11-11T10:00:00Z",
+          "date_modified": "2024-11-11T12:00:00Z",
+          "content": "This is a detailed article about health developments. It discusses relevant insights and recent trends in health.",
+          "summary": "Summary of key developments in health for 1.",
+          "category": "Health",
+          "tags": [
+              "health",
+              "insights-1",
+              "updates"
+          ],
+          "thumbnail_url": "https://via.placeholder.com/600x400?text=Plant-Based+Diet",
+          "image_urls": [
+              "https://via.placeholder.com/600x400?text=Plant-Based+Diet",
+              "https://via.placeholder.com/600x400?text=Plant-Based+Diet&extra=true"
+          ],
+          "video_url": "https://www.example.com/videos/health-1.mp4",
+          "source_url": "https://www.example.com/health-insights-1",
+          "reading_time": 6,
+          "likes": 160,
+          "comments": [
+              {
+                  "user": "User1",
+                  "comment": "Great insights on health!"
+              },
+              {
+                  "user": "User2",
+                  "comment": "Looking forward to more updates on health."
+              }
+          ],
+          "related_articles": [
+              "Related Article 1",
+              "Related Article 2",
+              "Related Article 3"
+          ]
+      },
+      {
+          "id": "22",
+          "title": "Health Insights: Key Developments 2",
+          "author": "Expert Author 2",
+          "author_id": "expert-author-022",
+          "date_published": "2024-11-12T10:00:00Z",
+          "date_modified": "2024-11-12T12:00:00Z",
+          "content": "This is a detailed article about health developments. It discusses relevant insights and recent trends in health.",
+          "summary": "Summary of key developments in health for 2.",
+          "category": "Health",
+          "tags": [
+              "health",
+              "insights-2",
+              "updates"
+          ],
+          "thumbnail_url": "https://via.placeholder.com/600x400?text=Mental+Health+at+Work",
+          "image_urls": [
+              "https://via.placeholder.com/600x400?text=Mental+Health+at+Work",
+              "https://via.placeholder.com/600x400?text=Mental+Health+at+Work&extra=true"
+          ],
+          "video_url": "https://www.example.com/videos/health-2.mp4",
+          "source_url": "https://www.example.com/health-insights-2",
+          "reading_time": 7,
+          "likes": 170,
+          "comments": [
+              {
+                  "user": "User1",
+                  "comment": "Great insights on health!"
+              },
+              {
+                  "user": "User2",
+                  "comment": "Looking forward to more updates on health."
+              }
+          ],
+          "related_articles": [
+              "Related Article 1",
+              "Related Article 2",
+              "Related Article 3"
+          ]
+      },
+      {
+          "id": "23",
+          "title": "Health Insights: Key Developments 3",
+          "author": "Expert Author 3",
+          "author_id": "expert-author-023",
+          "date_published": "2024-11-13T10:00:00Z",
+          "date_modified": "2024-11-13T12:00:00Z",
+          "content": "This is a detailed article about health developments. It discusses relevant insights and recent trends in health.",
+          "summary": "Summary of key developments in health for 3.",
+          "category": "Health",
+          "tags": [
+              "health",
+              "insights-3",
+              "updates"
+          ],
+          "thumbnail_url": "https://via.placeholder.com/600x400?text=Physical+Activity",
+          "image_urls": [
+              "https://via.placeholder.com/600x400?text=Physical+Activity",
+              "https://via.placeholder.com/600x400?text=Physical+Activity&extra=true"
+          ],
+          "video_url": "https://www.example.com/videos/health-3.mp4",
+          "source_url": "https://www.example.com/health-insights-3",
+          "reading_time": 8,
+          "likes": 180,
+          "comments": [
+              {
+                  "user": "User1",
+                  "comment": "Great insights on health!"
+              },
+              {
+                  "user": "User2",
+                  "comment": "Looking forward to more updates on health."
+              }
+          ],
+          "related_articles": [
+              "Related Article 1",
+              "Related Article 2",
+              "Related Article 3"
+          ]
+      },
+      {
+          "id": "24",
+          "title": "Health Insights: Key Developments 4",
+          "author": "Expert Author 4",
+          "author_id": "expert-author-024",
+          "date_published": "2024-11-14T10:00:00Z",
+          "date_modified": "2024-11-14T12:00:00Z",
+          "content": "This is a detailed article about health developments. It discusses relevant insights and recent trends in health.",
+          "summary": "Summary of key developments in health for 4.",
+          "category": "Health",
+          "tags": [
+              "health",
+              "insights-4",
+              "updates"
+          ],
+          "thumbnail_url": "https://via.placeholder.com/600x400?text=Telemedicine",
+          "image_urls": [
+              "https://via.placeholder.com/600x400?text=Telemedicine",
+              "https://via.placeholder.com/600x400?text=Telemedicine&extra=true"
+          ],
+          "video_url": "https://www.example.com/videos/health-4.mp4",
+          "source_url": "https://www.example.com/health-insights-4",
+          "reading_time": 9,
+          "likes": 190,
+          "comments": [
+              {
+                  "user": "User1",
+                  "comment": "Great insights on health!"
+              },
+              {
+                  "user": "User2",
+                  "comment": "Looking forward to more updates on health."
+              }
+          ],
+          "related_articles": [
+              "Related Article 1",
+              "Related Article 2",
+              "Related Article 3"
+          ]
+      },
+      {
+          "id": "25",
+          "title": "Health Insights: Key Developments 5",
+          "author": "Expert Author 5",
+          "author_id": "expert-author-025",
+          "date_published": "2024-11-15T10:00:00Z",
+          "date_modified": "2024-11-15T12:00:00Z",
+          "content": "This is a detailed article about health developments. It discusses relevant insights and recent trends in health.",
+          "summary": "Summary of key developments in health for 5.",
+          "category": "Health",
+          "tags": [
+              "health",
+              "insights-5",
+              "updates"
+          ],
+          "thumbnail_url": "https://via.placeholder.com/600x400?text=Sleep+and+Health",
+          "image_urls": [
+              "https://via.placeholder.com/600x400?text=Sleep+and+Health",
+              "https://via.placeholder.com/600x400?text=Sleep+and+Health&extra=true"
+          ],
+          "video_url": "https://www.example.com/videos/health-5.mp4",
+          "source_url": "https://www.example.com/health-insights-5",
+          "reading_time": 10,
+          "likes": 200,
+          "comments": [
+              {
+                  "user": "User1",
+                  "comment": "Great insights on health!"
+              },
+              {
+                  "user": "User2",
+                  "comment": "Looking forward to more updates on health."
+              }
+          ],
+          "related_articles": [
+              "Related Article 1",
+              "Related Article 2",
+              "Related Article 3"
+          ]
+      }
+  ]
+}

@@ -1,0 +1,66 @@
+/* Container styling */
+.delete-account-container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Title styling */
+  .delete-account-title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  /* Message styling */
+  .delete-account-message {
+    font-size: 16px;
+    color: #666;
+    margin-bottom: 30px;
+  }
+  
+  /* Buttons container */
+  .delete-account-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  /* Confirm Delete button */
+  .confirm-delete-button {
+    background-color: #ff4d4d; /* Red for delete */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .confirm-delete-button:hover {
+    background-color: #e60000; /* Darker red on hover */
+  }
+  
+  /* Cancel button */
+  .cancel-button {
+    background-color: #f0f0f0; /* Grey for cancel */
+    color: #333;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .cancel-button:hover {
+    background-color: #e0e0e0; /* Darker grey on hover */
+  }
+  

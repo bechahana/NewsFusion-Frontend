@@ -1,0 +1,218 @@
+/* Authentication Container */
+.auth-container {
+  display: flex; /* Ensures sections are displayed side by side */
+  flex-direction: row; /* Aligns items horizontally */
+  justify-content: space-between;
+  align-items: stretch;
+  width: 100%; /* Full width of the parent container */
+  max-width: 1100px; /* Maximum width */
+  margin: 2rem auto; /* Center the container horizontally */
+  background: linear-gradient(135deg, #ffffff, #f9f9f9); /* Consistent light gradient */
+  border-radius: 12px;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.15); /* Enhanced shadow for better depth */
+  height: 80vh; /* Adjust height to fit both sections */
+  padding: 2.5rem;
+  flex-wrap: wrap; /* Allow elements to wrap on smaller screens */
+  overflow: hidden;
+  gap: 2rem; /* Add spacing between sections */
+}
+
+/* Left Section (Welcome Back) */
+.info-section {
+  flex: 1; /* Takes up 50% of the available space */
+  background: linear-gradient(135deg, #ffffff, #d78a8a); /* Updated gradient background */
+  color: #ee3131; /* Adjusted text color for readability */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2.5rem;
+  text-align: center;
+  border-radius: 12px; /* Consistent rounded corners */
+}
+
+.info-section h3 {
+  font-size: 2.4rem;
+  font-weight: bold;
+  margin-bottom: 1.5rem;
+   color: #ff4c4c;
+  ; /* Complementary blue for heading */
+}
+
+.info-section p {
+  font-size: 1.1rem;
+  margin-bottom: 2rem;
+  color: #000000; /* Slightly darker shade for paragraph text */
+  line-height: 1.6;
+  max-width: 80%;
+}
+
+.info-button {
+  background: #ff4c4c; /* Button color from login theme */
+  color: white;
+  border: none;
+  padding: 0.9rem 2.2rem;
+  font-size: 1.1rem;
+  font-weight: bold;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.1);
+}
+
+.info-button:hover {
+  background: #cc0000; /* Hover effect with darker red */
+  transform: scale(1.05); /* Slight enlargement on hover */
+}
+
+/* Right Section (Register Form) */
+.register-section {
+  flex: 1; /* Takes up 50% of the available space */
+  padding: 2.5rem;
+  background: #ffffff; /* Clean white background */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 12px; /* Consistent rounded corners */
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+}
+
+.register-section h2 {
+  margin-bottom: 2rem;
+  color: #ff4c4c; /* Consistent with login heading */
+  font-size: 2.5rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+.register-form {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.register-form input {
+  width: 100%;
+  max-width: 360px;
+  padding: 0.9rem;
+  margin-bottom: 1.5rem;
+  border: 1px solid #ccc;
+  border-radius: 8px; /* Rounded corners for inputs */
+  font-size: 1rem;
+  background: #f8f8f8; /* Light background for inputs */
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.register-form input:focus {
+  border-color: #ff4c4c; /* Focus color consistent with button */
+  outline: none;
+  box-shadow: 0 0 10px rgba(255, 76, 76, 0.3); /* Subtle shadow on focus */
+}
+
+.register-button {
+  background: #ff4c4c; /* Consistent button color */
+  color: #fff;
+  border: none;
+  font-size: 1.2rem;
+  font-weight: bold;
+  cursor: pointer;
+  padding: 1rem;
+  border-radius: 8px; /* Rounded corners */
+  transition: background 0.3s ease-in-out, transform 0.2s ease;
+}
+
+.register-button:hover {
+  background: #cc0000;
+  transform: scale(1.05); /* Slight scale on hover */
+}
+
+/* Link to Login */
+.link-to-login {
+  color: #c0d6ed; /* Blue link color */
+  cursor: pointer;
+  font-weight: bold;
+  margin-top: 1rem;
+}
+
+.link-to-login:hover {
+  text-decoration: underline;
+}
+
+/* Social Login Section */
+.social-login {
+  text-align: center;
+  margin-top: 1.5rem;
+}
+
+.social-login p {
+  font-size: 1.1rem;
+  color: #666;
+  margin-bottom: 1rem;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+  gap: 1rem; /* Space between social icons */
+}
+
+.social-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background: #fff;
+  border: 1px solid #ccc;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.social-button:hover {
+  transform: scale(1.1);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+}
+
+.social-button.google {
+  background-color: #db4437;
+  color: white;
+}
+
+.social-button.facebook {
+  background-color: #4267b2;
+  color: white;
+}
+
+.social-button.linkedin {
+  background-color: #0077b5;
+  color: white;
+}
+
+.social-button.phone {
+  background-color: #28a745;
+  color: white;
+}
+
+/* Responsive Design */
+@media screen and (max-width: 768px) {
+  .auth-container {
+    flex-direction: column; /* Stack elements vertically on smaller screens */
+    height: auto;
+  }
+
+  .info-section,
+  .register-section {
+    flex: none;
+    width: 100%;
+    padding: 2rem;
+  }
+
+  .social-button {
+    width: 45px;
+    height: 45px;
+    font-size: 1.4rem;
+  }
+}

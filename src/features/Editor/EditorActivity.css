@@ -1,0 +1,93 @@
+/* General container styles */
+.editor-activity {
+    padding: 20px;
+    margin: 0 auto;
+    max-width: 800px;
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    color: #333;
+  }
+  
+  /* Header styles */
+  .editor-activity h1 {
+    text-align: center;
+    font-size: 28px;
+    margin-bottom: 20px;
+    color: #333;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
+  /* Error and loading messages */
+  .error-message {
+    color: #d9534f;
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  .loading {
+    text-align: center;
+    font-size: 18px;
+    color: #777;
+  }
+  
+  /* Activity list styles */
+  .editor-activity ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .editor-activity li {
+    background-color: #fff;
+    margin-bottom: 15px;
+    padding: 15px;
+    border-radius: 8px;
+    border-left: 6px solid;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  }
+  
+  .editor-activity li.important {
+    border-color: #f29595; /* Highlight for published articles */
+    background-color: #f8cccc;
+  }
+  
+  .editor-activity li.view {
+    border-color: #17a2b8; /* Highlight for views */
+    background-color: #e6f7fb;
+  }
+  
+  .editor-activity li.comment {
+    border-color: #28a745; /* Highlight for comments */
+    background-color: #e8fbe8;
+  }
+  
+  .editor-activity li strong {
+    font-weight: bold;
+    color: #444;
+  }
+  
+  .editor-activity li pre {
+    background-color: #f4f4f4;
+    padding: 10px;
+    border-radius: 5px;
+    overflow-x: auto;
+    font-family: monospace;
+    font-size: 14px;
+  }
+  
+  .editor-activity li .timestamp {
+    margin-top: 10px;
+    font-size: 12px;
+    color: #888;
+    text-align: right;
+  }
+  
+  /* No activities message */
+  .editor-activity p {
+    text-align: center;
+    font-size: 16px;
+    color: #555;
+  }
+  

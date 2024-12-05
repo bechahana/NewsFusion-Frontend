@@ -1,0 +1,85 @@
+.analytics {
+    font-family: 'Arial', sans-serif;
+    padding: 30px; /* Increased padding for better spacing */
+    background-color: #f3f4f6; /* Softer background color */
+    border-radius: 12px; /* Slightly rounded corners */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); /* Enhanced shadow for depth */
+    max-width: 1200px;
+    margin: 30px auto; /* Increased vertical spacing */
+  }
+  
+  .analytics-title {
+    text-align: center;
+    font-size: 28px; /* Slightly larger font for better visibility */
+    font-weight: bold;
+    color: #2c3e50; /* Darker color for better contrast */
+    margin-bottom: 30px; /* Increased bottom margin */
+  }
+  
+  .chart-container {
+    margin: 30px auto;
+    padding: 25px; /* More padding for charts */
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease-in-out; /* Added hover effect */
+  }
+  
+  .chart-container:hover {
+    transform: scale(1.02); /* Slightly enlarges on hover */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+  }
+  
+  .chart-container .chart-title {
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    color: #4b6584; /* Muted dark blue for titles */
+    margin-top: 15px; /* Adjusted spacing */
+  }
+  
+  .legend-container {
+    display: flex;
+    flex-direction: row; /* Arranges legend items in a row */
+    justify-content: flex-start;
+    margin-bottom: 15px; /* Adjusted margin for better spacing */
+    font-size: 14px;
+    font-weight: bold;
+    color: #2c3e50;
+  }
+  
+  .legend-item {
+    margin-right: 15px; /* Horizontal spacing between items */
+    display: flex;
+    align-items: center;
+  }
+  
+  .legend-item::before {
+    content: "●";
+    font-size: 18px;
+    margin-right: 8px;
+    color: inherit; /* Matches the item's color */
+  }
+  
+  .loader {
+    text-align: center;
+    font-size: 18px;
+    color: #7f8c8d; /* Neutral gray */
+    margin-top: 30px;
+  }
+  
+  @media (max-width: 768px) {
+    .analytics {
+      padding: 20px;
+      max-width: 95%; /* Adjust width for smaller screens */
+    }
+  
+    .chart-container {
+      padding: 20px;
+    }
+  
+    .analytics-title {
+      font-size: 22px; /* Smaller font for smaller screens */
+    }
+  }
+  
